@@ -6,11 +6,12 @@ const JuanDevH = {
   code: [Javascript, HTML, CSS,],
   tools: [React, Node, Styled-Components],
 }
-
 ```
 You can find me 🌎:
 - [twitter](https://twitter.com/juandev10)
 - [Instragram](https://instragram.com/juandev_30)
+
+[![JuanDevH GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanDevH)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
   JuanDevH/JuanDevH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
