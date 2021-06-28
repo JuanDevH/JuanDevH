@@ -7,7 +7,7 @@ const JuanDevH = {
   tools: [React, Node, Styled-Components],
 }
 ```
-You can find me 🌎:
+## You can find me 🌎:
 - [twitter](https://twitter.com/juandev10)
 - [Instragram](https://instragram.com/juandev_30)
 
