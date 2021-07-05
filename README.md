@@ -2,7 +2,7 @@
 
 ```Js
 const JuanDevH = {
-  pronouns: "he" | "hin",
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS,],
   tools: [React, Node, Styled-Components],
 }
