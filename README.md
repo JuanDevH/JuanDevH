@@ -4,7 +4,7 @@
 const JuanDevH = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS,],
-  tools: [React, Node, Styled-Components],
+  tools: [React, Node, TailwindCSS, Styled-Components],
 }
 ```
 ## You can find me 🌎:
